@@ -22,7 +22,7 @@ Inclui menu, coleta de entrada, controle de tom, modo rígido de progressão e c
 
 
 1. Copie o conteúdo do prompt-z2h.txt
-2. Execute o prompt no seu ambiente preferido.  
+2. Execute o prompt no modelo IA preferido (ChatGPT, Claude, Gemini, Grok, DeepSeek, QWEN, etc..)
 3. Escolha a opção **1 - Iniciar** para fornecer seu nome, área de estudo e nível.  
 4. Ajuste o tom com **2 - Escolher Tom**.  
 5. Explore **3 - Sobre** para entender melhor a filosofia e os objetivos do framework.  
