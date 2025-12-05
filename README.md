@@ -15,7 +15,7 @@ O Zero 2 Hero organiza o estudo, guia cada etapa e impede o modelo de fugir do r
 - Experiência interativa, fácil e sem confusão
 
 ## Como usar
-1. Copie o conteúdo do prompt  
+1. Copie o conteúdo do prompt  (prompt-z2h.txt)
 2. Cole no modelo de IA que quiser usar  
 3. Escolha a opção **1 - Iniciar** para informar nome, área e nível  
 4. Mude o tom com **2 - Escolher tom** se quiser  
